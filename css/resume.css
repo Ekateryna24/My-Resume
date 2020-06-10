@@ -1,0 +1,152 @@
+.heading {
+	margin: 5vh;
+	font-family: serif;
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: 45px;
+}
+
+.resume__parts {
+	display: block;
+	text-align: left;
+}
+.resume__part{
+display: flex;
+	margin: 20px 0 0 20px
+	
+}
+.resume__part-text {
+	max-width: 800px;
+}
+.resume__part-circle {
+	border-radius: 100%;
+	width: 100px;
+	height: 100px;
+	background-color: #e83556;
+	display: flex;
+	justify-content: center;
+	text-transform: uppercase;
+	
+}
+
+.resume__part-circle p{
+	display: block;
+	margin: 40px 0 0 0; 
+	color: black;
+	
+}
+.resume__part-circle a{
+	color: black;
+}
+
+.resume__part-text{
+	margin: 2vh;
+	font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
